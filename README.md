@@ -1,7 +1,7 @@
 ## Hey, Hot! 🤓
 
 ### KNOW MORE ABOUT ME>>>>
-<p align="center"><a href="https://github.com/retardcoder"><img title="Retard Coder" src="https://github-readme-stats.vercel.app/api?username=hotteam&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/hotteam"><img title="Hot Team" src="https://github-readme-stats.vercel.app/api?username=hotteam&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
 <p align="center">
