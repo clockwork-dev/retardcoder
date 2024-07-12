@@ -14,5 +14,5 @@
 
 
 <p align="center">
-<a href="https://github.com/retardcoder"><img title="retardcoder" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retardcoder&layout=compact"></a>
+<a href="https://github.com/hotteam"><img title="hotteam" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotteam&layout=compact"></a>
 </p>
