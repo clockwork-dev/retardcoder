@@ -1,7 +1,7 @@
 ## Hey, Hot! 🤓
 
 ### KNOW MORE ABOUT ME>>>>
-<p align="center"><a href="https://github.com/hotteam"><img title="Hot Team" src="https://github-readme-stats.vercel.app/api?username=hotteam&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/nothot"><img title="not hot" src="https://github-readme-stats.vercel.app/api?username=nothot&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
 <p align="center">
@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/hotteam/hotblox"><img title="hacker phone turkish edition" src="https://github-readme-stats.vercel.app/api/pin/?username=hotteam&repo=hotbloxTR&theme=highcontrast"></a>
+<a href="https://github.com/nothot/hotblox"><img title="hotblox" src="https://github-readme-stats.vercel.app/api/pin/?username=nothot&repo=hotbloxTR&theme=highcontrast"></a>
 
 
 <p align="center">
-<a href="https://github.com/hotteam"><img title="hotteam" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotteam&layout=compact"></a>
+<a href="https://github.com/nothot"><img title="hotteam" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothot&layout=compact"></a>
 </p>
